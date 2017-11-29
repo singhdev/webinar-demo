@@ -1,0 +1,25 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "OpenFin Webinar",
+        "description": "Webinar presentation for OpenFin - first presented 2/8/17",
+        "url": "https://singhdev.github.io/webinar-demo/public/index.html",
+        "uuid": "OpenFin Webinar-udbrf2z9sehilik9",
+        "autoShow": false,
+        "defaultCentered": true,
+        "applicationIcon": "http://openfin.github.io/webinar-demo/public/img/openfin.ico",
+        "frame": true,
+        "defaultHeight": 300,
+        "defaultWidth": 300
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin Webinar",
+        "name": "Openfin Webinar",
+        "icon": "http://openfin.github.io/webinar-demo/public/img/openfin.ico"
+    }
+}
